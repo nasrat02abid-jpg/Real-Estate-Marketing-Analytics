@@ -10,16 +10,8 @@ The goal of this project is to transform raw Meta Ads data into actionable insig
 - **Microsoft Excel:** Served as the primary data source.
 - **GitHub:** For version control and portfolio hosting.
 
-## 📈 Key Insights from Dashboard
-- **Total Spend:** 89.15K PKR.
-- **Total Reach:** 2 Million+ potential customers.
-- **Campaign Efficiency:** Managed to maintain a low average cost per result (0.94 PKR).
-- **Active Management:** Real-time tracking of Active vs. Inactive campaigns to prevent budget wastage.
-
-## 📂 Files in this Repository
-- `Lmar_Marketing_Dashboard.pbix`: The main Power BI project file.
-- `Facebook_Ads_Data.xlsx`: The raw data exported from Meta Ads Manager.
-- `dashboard_preview.png`: A high-resolution screenshot of the final dashboard.
+## 📷 Screenshots
+(![dashboard_preview.png](dashboard_preview.png))
 
 ## 👤 About the Author
 I am a **Computer Science (Data Science)** student at Abasyn University and a **Social Media Manager** based in Lmar Marketing. I specialize in combining technical data analysis with digital marketing strategies.
