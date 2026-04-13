@@ -11,7 +11,7 @@ The goal of this project is to transform raw Meta Ads data into actionable insig
 - **GitHub:** For version control and portfolio hosting.
 
 ## 📷 Screenshots
-(![dashboard_preview](dashboard_preview.png))
+![Dashboard Preview](dashboard_preview.png)
 
 ## 👤 About the Author
 I am a **Computer Science (Data Science)** student at Abasyn University and a **Social Media Manager** based in Lmar Marketing. I specialize in combining technical data analysis with digital marketing strategies.
